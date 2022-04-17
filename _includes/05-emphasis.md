@@ -1,7 +1,7 @@
 I'm :
 - Good at 
   - **Programming** using ***Python***.
-  - **DataStructures and Algorithms***
+  - **DataStructures and Algorithms**
   - ***SQL***
 - Currently learning 
   - ***Web Devolopment***
