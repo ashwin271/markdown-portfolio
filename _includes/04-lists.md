@@ -1,7 +1,5 @@
 Things that I like doing.
 - Watching anime 📺
-  - Shonen ⚔️
-  - RomCom ❤️ 
 - Playing games 🎲
   - Video games 🎮
   - Football ⚽
